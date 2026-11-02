@@ -1,0 +1,8 @@
+{
+  "name": "LegalEase AI - Consumer Rights & Legal Awareness Assistant",
+  "description": "A modern legal-tech frontend helping Indian consumers understand their statutory rights under the Consumer Protection Act, 2019 with conversational guidance, complaint letter drafting, and official resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
